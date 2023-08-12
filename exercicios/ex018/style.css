@@ -1,0 +1,14 @@
+body {
+    
+    background-color: bisque;
+    border-radius: 20px;
+    box-shadow: 20px 20px 30px rgb(24, 50, 61);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+
+}
+
+main {
+    background-image: linear-gradient(to right, #02735E, #034159);
+}
