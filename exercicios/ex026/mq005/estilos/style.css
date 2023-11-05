@@ -27,8 +27,6 @@ i#burguer {
     text-align: center;
     padding: 10px;
     cursor: pointer;
-    transition: 0.5s;
-
 }
 
 i#burguer:hover {
